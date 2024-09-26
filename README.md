@@ -1,16 +1,36 @@
-# aplikasi_flutter_pertama
+# Cara Menggunakan
 
-A new Flutter project.
+1. Langkah 1: Pastikan Git Sudah Terpasang
+   ![tuto1](laporan/tuto/peng_1.png)
 
-## Getting Started
+2. Langkah 2: Dapatkan URL Repository GitHub
+   ![tuto2](laporan/tuto/peng_2.png)
 
-This project is a starting point for a Flutter application.
+3. Langkah 3: Clone Repository Menggunakan Git
+   ![tuto3](laporan/tuto/peng_3.png)
 
-A few resources to get you started if this is your first Flutter project:
+4. Langkah 4: Masuk ke Direktori Repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Note : Sekarang, kamu bisa melihat, mengedit, atau menjalankan kode dari repository yang telah di-clone.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Info Sekilas Codingan
+
+1. Membuat project
+
+   - Membuat proyek Flutter pertama Anda
+     ![tugas1](laporan/tugas/tug_1.png)
+
+   - pubspec.yaml
+     File pubspec.yaml menentukan informasi dasar tentang aplikasi Anda, seperti versi aplikasi saat ini, dependensi aplikasi, dan aset yang digunakan oleh aplikasi untuk pengiriman.
+     ![tugas2](laporan/tugas/tug_2.png)
+
+   - analysis_options.yaml
+     File ini menentukan seberapa ketat Flutter saat menganalisis kode Anda. Karena percobaan ini adalah percobaan pertama Anda menggunakan Flutter, Anda memberi tahu penganalisis agar tidak terlalu ketat. Anda dapat mengatur ini kapan saja. Bahkan, seiring mendekati pemublikasian aplikasi produksi sebenarnya, Anda kemungkinan besar akan ingin membuat penganalisis lebih ketat dari ini.
+
+   - lib/main.dart
+     50 baris kode ini adalah keseluruhan aplikasi sejauh ini.
+
+   <b>Catatan : </b> Codelab ini dipercepat hingga di titik Anda dapat mulai mengubah aplikasi secara interaktif—karena itu cara terbaik mempelajari Flutter. Jika Anda melewatkan penjelasan dari kode di atas, harap bersabar: penjelasannya akan diberikan.
+
+
+2. Menambahkan tombol
