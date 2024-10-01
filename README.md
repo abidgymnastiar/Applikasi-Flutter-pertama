@@ -357,7 +357,7 @@ Note : Sekarang, kamu bisa melihat, mengedit, atau menjalankan kode dari reposit
     Berikut class FavoritesPage baru:
 
     - lib/main.dart
-        ![tugas2](laporan/tugas/tug_34.png)
+        ![tugas2](laporan/tugas/tug_40.png)
 
         Inilah fungsi widget tersebut:
 
